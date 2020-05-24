@@ -63,7 +63,6 @@ other = "Yeni bir güncelleme bulundu."
 other = "Yenile"
 
 [searchResultsTitle]
-one = "Found one result for “{{ .Term }}”"
 one = "“{{ .Term }}” araması için bir sonuç bulundu"
 other = "“{{ .Term }}” araması için {{ .Count }} sonuç bulundu"
 
